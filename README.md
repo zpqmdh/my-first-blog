@@ -1,4 +1,3 @@
-# my-first-blog
+# djangogirls tutorial
 
 [djangogirls](https://tutorial.djangogirls.org/ko/)
-## djangogirls tutorial
